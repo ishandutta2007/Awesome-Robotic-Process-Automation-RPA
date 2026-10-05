@@ -47,7 +47,7 @@ Below is the comparative matrix of leading commercial RPA platforms, sorted by *
 
 ## 🔓 Open-Source GitHub Repositories & Frameworks 🐍
 
-Below are top open-source RPA frameworks and automation libraries, sorted by **GitHub Star Count (Descending)** 🌟.
+Below are top open-source RPA frameworks and automation libraries, sorted by **GitHub Stars_Count (Descending)** 🌟.
 
 - **[microsoft/playwright](https://github.com/microsoft/playwright)** [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
   **Fast, reliable end-to-end browser automation framework for Chromium, Firefox, and WebKit.** Supports headless mode, auto-waiting, network intercept, and full screen recording across Python, Node.js, Java, and .NET.
@@ -99,7 +99,7 @@ Contributions are always welcome! 🚀 Follow these simple steps:
 
 1. 🍴 **Fork** this repository.
 2. ➕ **Add or edit** entries in `README.md` maintaining table/list structure and alphabetical or metric-based sorting.
-3. 🔗 **Include** tool name, GitHub URL, clear description, pricing details, and star count badge.
+3. 🔗 **Include** tool name, GitHub URL, clear description, pricing details, and Stars_Count badge.
 4. 📬 **Submit** a Pull Request with a clear summary of your updates.
 
 ---
